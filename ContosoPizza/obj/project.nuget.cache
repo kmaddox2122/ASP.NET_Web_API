@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZoaDlTMvMfyIGaaTURT7dcdU3ro5mgDUodm00TG6aipTqbIdyPrjtM3WzOCOtjer5QId9Pov7erWuAn9rtj8A==",
+  "success": true,
+  "projectFilePath": "/Users/katherine/Bootcamp/Practice/ASP.NET_Web_API/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/Users/katherine/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/katherine/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/katherine/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/katherine/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/katherine/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/katherine/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
